@@ -14,5 +14,8 @@ Topics                                       |               Description/Comment
  String Datatype                             | datatype, string functions (A1_String.cs)                                   | 
  Value Type VS Reference Type                | difference (A3)                                                             | 
  Naming Conventions                          | (A4) [Link](https://www.dofactory.com/csharp-coding-standards "Link")       | 
+ Type Conversions                            | implicit and explicit conversion , parse()                                  | 
+ String Manipulations                        | concatanation, formating, interpolation, verbatim                           | 
+ String Methods                              | string functions                                                            | 
 
 
