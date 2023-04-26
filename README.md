@@ -17,5 +17,6 @@ Topics                                       |               Description/Comment
  Type Conversions                            | implicit and explicit conversion , parse()                                  | 
  String Manipulations                        | concatanation, formating, interpolation, verbatim                           | 
  String Methods                              | string functions                                                            | 
+ Loop and Arrays                             | 1d and 2d Array                                                             | 
 
 
