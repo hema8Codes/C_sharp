@@ -44,7 +44,7 @@ namespace TheBeginningOfCSharp
                 Monitor.Enter(_lock, ref lockTaken);
                 try
                 {
-                    Sum++
+                    Sum++;
                 }
                 finally
                 {
